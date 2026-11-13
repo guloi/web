@@ -18,10 +18,10 @@
 
 # Comp Editor
 
-- 老版本:<a href = "/assets/Comp-Editor.sb3" download>Comp Editor(Old)</a>
+- 老版本:<a href = "/Comp-Editor.sb3" download>Comp Editor(Old)</a>
 
-- 新版本:<a href = "/assets/Comp-Editor-New.sb3" download>Comp Editor(New)</a>
-  - 查看[文档](/assets/Comp-Editor-New)
+- 新版本:<a href = "/Comp-Editor-New.sb3" download>Comp Editor(New)</a>
+  - 查看[文档](/Comp-Editor-New)
 
 
 ::: info
@@ -30,5 +30,5 @@
 
 ## Download Comp
 
-- 老版本:<a href = "/assets/Comp.sb3" download>Comp(Old)</a>
-- 重制版:<a href = "/assets/CompREMAKE.sb3" download>Comp(New)</a>
+- 老版本:<a href = "/Comp.sb3" download>Comp(Old)</a>
+- 重制版:<a href = "/CompREMAKE.sb3" download>Comp(New)</a>

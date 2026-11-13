@@ -16,7 +16,7 @@ export default defineConfig({
         text: '目录',
         items: [
           { text: 'Projetcs', link: '/project-index' },
-          { text: 'Docs', link: '/assets/docs' }
+          { text: 'Docs', link: '/docs' }
         ]
       }
     ],
