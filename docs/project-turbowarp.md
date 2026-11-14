@@ -20,7 +20,7 @@
 
 - 老版本:<a href = "/Comp-Editor.sb3" download>Comp Editor(Old)</a>
 
-- 新版本:<a href = "/Comp-Editor-New.sb3" download>Comp Editor(New)</a>
+- 新版本:<a href = "/CompEditorNew.sb3" download>Comp Editor(New)</a>
   - 查看[文档](/Comp-Editor-New)
 
 
