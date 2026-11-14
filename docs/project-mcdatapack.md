@@ -14,8 +14,16 @@
 
 
 ## Editor
-测试版本: minecraft 1.21.11
+测试版本: minecraft 1.21.11 ()
 <a href = "/Editor.zip" download>Download</a>
+
+```command
+/scoreboard players set #suc temp 1
+```
+
+:::info
+你可能需要手动运行一次这个命令
+:::
 
 ## Tellme
 显示注视实体的信息
