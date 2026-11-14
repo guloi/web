@@ -28,4 +28,4 @@
 ## Tellme
 显示注视实体的信息
 测试版本: minecraft 1.21.11
-<a href = "/Tellme.zip" download>Download</a>
+<a href = "/tellme.zip" download>Download</a>
