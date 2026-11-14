@@ -14,7 +14,7 @@
 
 
 ## Editor
-测试版本: minecraft 1.21.11 ()
+测试版本: minecraft 1.21.11
 <a href = "/Editor.zip" download>Download</a>
 
 ```command
